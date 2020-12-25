@@ -4,7 +4,7 @@ in
 {
   networking = {
     extraHosts = ''
-      127.0.0.1 ${hostName} ${hostName}.local dataroom.nrs.local loansfn.local
+      127.0.0.1 ${hostName} ${hostName}.local account.netroadshow.local loansfn.local
       10.0.0.1 amplifi.local
       10.0.0.2 pi.local
       10.0.0.3 aiki.local
